@@ -5,7 +5,7 @@ permalink: /guides/sell-with-chevereto/
 title: Sell with Chevereto
 author: Rodolfo Berrios
 summary: Chevereto as a product gallery
-image: /photos/2023/zapatito-cochinito.jpg
+image: /guides/2023/sell/sell_chv.png
 tags:
   - guides
 ---
